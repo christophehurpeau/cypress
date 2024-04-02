@@ -69,7 +69,7 @@
     "@cypress/questions-remain": "1.0.1",
     "ansi-styles": "3.2.1",
     "ascii-table": "0.0.9",
-    "babel-eslint": "10.0.1",
+    "@babel/eslint-parser": "7.11.0",
     "bluebird": "3.5.3",
     "bluebird-retry": "0.11.0",
     "bulk-decaffeinate": "3.3.1",
