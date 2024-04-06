@@ -75,7 +75,7 @@
     "bulk-decaffeinate": "3.3.1",
     "chai": "4.2.0",
     "chalk": "2.4.2",
-    "check-dependencies": "1.1.0",
+    "check-dependencies": "1.1.1",
     "check-more-types": "2.24.0",
     "cloudflare-cli": "3.2.1",
     "coffeelint": "1.16.2",
