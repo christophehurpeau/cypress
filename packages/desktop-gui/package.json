@@ -34,7 +34,7 @@
     "classnames": "2.2.6",
     "fira": "cypress-io/fira#fb63362742eea8cdce0d90825ab9264d77719e3d",
     "font-awesome": "4.7.0",
-    "gravatar": "1.8.0",
+    "gravatar": "1.8.2",
     "human-interval": "0.1.6",
     "istanbul": "0.4.5",
     "lodash": "4.17.11",
